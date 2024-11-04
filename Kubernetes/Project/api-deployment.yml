@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: docker.io/sharmila688/simpleblogapi
+          image: docker.io/divya910/simpleblogapi
           ports:
             - containerPort: 3000
           resources:
